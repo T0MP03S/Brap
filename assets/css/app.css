@@ -1,0 +1,16 @@
+.kech {
+    background: url('./../images/kechermon.jpg') no-repeat center center / cover;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    filter: blur(1.5rem);
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
