@@ -8,6 +8,16 @@
     filter: blur(1.5rem);
 }
 
+.nude {
+    background: url('./../images/8906f54a-10dc-11ec-82a8-0242ac130003.jpg') no-repeat center center / cover;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+
 .button {
     position: absolute;
     top: 50%;
